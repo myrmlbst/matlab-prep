@@ -1,2 +1,2 @@
 # matlab-prep
-core introductory matlab problems
+core introductory matlab commands for linear algebra course
